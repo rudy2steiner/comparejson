@@ -9,20 +9,6 @@ body {
     font-size: .9rem;
 }
 
-h1 {
-    font-size: 3em;
-    line-height: 1;
-    margin-bottom: .1em;
-    font-weight: 300;
-}
-
-h3 {
-    font-size: 1.5em;
-    line-height: 1;
-    margin-bottom: 1em;
-    margin-top: 1em;
-}
-
 a {
     text-decoration: none;
     color: #36c;
@@ -299,10 +285,6 @@ button {
     left: 56.5%;
     right: 3%;
     padding: 0 1em 0 0;
-}
-
-p {
-    margin-bottom: 1em;
 }
 
 .header {

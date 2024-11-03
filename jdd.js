@@ -856,7 +856,7 @@ var jdd = {
 
         report.replaceChildren();
 
-        report.insertAdjacentHTML('beforeend', '<button>edit JSON</button>');
+        report.insertAdjacentHTML('beforeend', '<button >edit JSON</button>');
         // TODO: add a class/id name to button and use that to select and add event
         report.querySelector('button').addEventListener('click', function () {
             jdd.setupNewDiff();
